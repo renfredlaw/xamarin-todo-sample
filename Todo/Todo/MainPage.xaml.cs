@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -13,6 +13,7 @@ namespace Todo
         public MainPage()
         {
             InitializeComponent();
+            // Write comment to force a build
         }
     }
 }
